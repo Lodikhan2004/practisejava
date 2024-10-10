@@ -10,6 +10,11 @@ public class array2 {
         for(int i=0;i<size;i++){
             name[i]=sc.nextLine();
         }
+        System.out.println("THE ENTERED NAMES :");
+        for(int i=0;i<size;i++){
+          System.out.println(name[i]);
+        }
+
         System.out.println("THE ENTERED NAMES ARE:");
         for(int i=0;i<size;i++){
           System.out.println(name[i]);
