@@ -21,8 +21,7 @@ public class array2 {
         }
         System.out.println("afzal");
         System.out.println("fuzail");
-        System.out.println("sufiya");
-        System.out.println("arbaz");
+       
 
     }
 }
